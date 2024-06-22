@@ -1,0 +1,12 @@
+In recent years, the global economy has faced unprecedented challenges, leading to significant shifts in the workforce dynamics. This project aims to delve into the data surrounding layoffs across the tech industry and other sectors from 2020 to 2023. Utilizing a comprehensive dataset from Kaggle, we will embark on a journey to uncover patterns and insights through meticulous data cleaning and exploratory analysis.
+
+Objective: The primary objective of this project is to cleanse the data within a MySQL database and conduct exploratory data analysis (EDA) on global layoffs, providing stakeholders with a clearer understanding of the trends and factors influencing employment changes.
+
+Data Cleaning Process: To ensure the integrity and quality of our analysis, the following data cleaning steps were meticulously executed:
+
+Upload the Data: The dataset was imported into the MySQL database system, setting the stage for our cleaning operations.
+Remove Duplicates: We identified and eliminated duplicate records to maintain the uniqueness of each data entry.
+Standardize the Data: Data standardization procedures were applied to bring uniformity to the dataset, facilitating accurate comparisons and analysis.
+Null Value Treatment: Null or blank values were addressed, either by removal or imputation, to prevent any gaps in the dataset that could skew our analysis.
+Column and Row Pruning: Irrelevant columns and rows that did not contribute to our analysis objectives were prudently removed.
+With the data primed for exploration, we are poised to uncover the narratives hidden within the numbers, shedding light on the layoff landscape that has shaped the labor market over the past few years.
