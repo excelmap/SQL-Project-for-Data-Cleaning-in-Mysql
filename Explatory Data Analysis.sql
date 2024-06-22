@@ -1,11 +1,11 @@
 ---- Exploratory Data Analysis of world_layoffs ----
 
 SELECT * 
-FROM layoffs_stagging2;
+FROM layoffs_stagging1;
 
 
 SELECT MAX(total_laid_off), MAX(percentage_laid_off)
-FROM layoffs_stagging2;
+FROM layoffs_stagging1;
 
 SELECT * 
 FROM layoffs_stagging2
